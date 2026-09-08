@@ -21,6 +21,6 @@ public class DataTypeConcepts {
 
         long x3 = 2147483648L;  // 8 byte or 64 bits
 
-        //When a number lies in the range of multiple data types, we choose the one with least memory consumption
+        //When a number lies in the range of multiple data types, we choose the one with least memory
     }
 }

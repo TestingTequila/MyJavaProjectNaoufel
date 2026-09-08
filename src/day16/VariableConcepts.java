@@ -28,3 +28,6 @@ public class VariableConcepts {
 
     }
 }
+
+
+//12, 23.45, t, false ? Naoufel
