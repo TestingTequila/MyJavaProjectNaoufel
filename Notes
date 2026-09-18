@@ -39,3 +39,13 @@ Statements:  Whenever we have to make some decision/s
   }
 
 -switch Statement
+
+========================Loops==============================
+repetition of action - Loops
+-while loop //If we are not sure in how many iterations, given condition will be met, we use while loop
+-for loop   //If we are sure in how many iterations, given condition will be met, we use for loop
+
+-advanced for loop
+
+Arrays : multiple values of same data type
+
