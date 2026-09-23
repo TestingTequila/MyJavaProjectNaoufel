@@ -49,5 +49,27 @@ repetition of action - Loops
 
 Arrays : multiple values of same data type
 
+===================Day 24==================
+What is Class: A class is a Template
+What is object: An object[copy] is a copy of class[template]
+How is class and Object Related: NameOfTheClassWhoseCopyYouWantToCreate objectName= new NameOfTheClassWhoseCopyYouWantToCreate();
+Object w.r.t main(): A class with main provides us space to create object of any class
+Class & Object w.r.t Heap & Stack Memory: Object is in Heap memory, reference variable is in stack memory and Class[Template] is in Metaspace
+Null reference object
+No reference Object
+Garbage Collector
+Object assignments to each other
+
+===========================
+1. Define the class
+2. Create the location with main method
+3. NameOfTheClassWhoseCopyYouWantToCreate objectName= new NameOfTheClassWhoseCopyYouWantToCreate();
 
 
+
+//Employee
+        // Employee emp1=new Employee();
+        // Employee emp2=new Employee();
+
+// Automobile
+        // Automobile car=new Automobile();
