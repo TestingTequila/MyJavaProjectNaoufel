@@ -16,7 +16,7 @@ public class ExecuteResumeTemplate {
         System.out.println(resume1.isMarried);
         System.out.println(resume1.gender);
 
-        resume1=null;
+        //resume1=null;
 
         System.out.println("============================");
 
