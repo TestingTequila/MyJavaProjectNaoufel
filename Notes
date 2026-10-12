@@ -73,3 +73,16 @@ Object assignments to each other
 
 // Automobile
         // Automobile car=new Automobile();
+
+
+========METHODS=======================================
+accessModifier[public/private/protected] returnType[void/dataTypes] methodName(can/t parameter)
+{
+   action over variables
+}
+
+
+Global Variables: your same variable value will be shared across multiple methods
+Parameters      : Every method will have their own parameter value used by them only
+Local Variables : These will have fixed values defined at the time of creation
+
